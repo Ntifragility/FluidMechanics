@@ -1,3 +1,11 @@
+%{
+4 Fluid Kinematics
+4.2 Flow Patterns and visualization.
+In reference to Fluid Mechanics, Cengel, 3rd Ed.
+
+Auhor: marco.villafuerte.j@uni.pe
+%}
+
 clear, clc, close all;
 
 % define X-Y plane, wih  a density of arrows of 25
